@@ -1,12 +1,12 @@
 # simple-restapi-express
 Simple REST API example with Node, Express and MongoDB
 
-git clone https://github.com/plattr30/simple-restapi-express.git
+    git clone https://github.com/plattr30/simple-restapi-express.git
 
-cd simple-restapi-express
+    cd simple-restapi-express
 
-npm install
+    npm install
 
-node server.js
+    node server.js
 
 Use postman to test.
