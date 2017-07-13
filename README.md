@@ -1,11 +1,9 @@
 # simple-restapi-express
 Simple REST API example with Node, Express and MongoDB
 
-mkdir simple-restapi-express
+git clone https://github.com/plattr30/simple-restapi-express.git
 
 cd simple-restapi-express
-
-Download package.json and server.js to the new directory
 
 npm install
 
